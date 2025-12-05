@@ -1,4 +1,4 @@
-import curriculoPdf from '../../assets/Curriculo (2).pdf'
+import curriculoPdf from '../../assets/curriculo_doug_front.pdf'
 
 export default function About() {
   return (

@@ -22,6 +22,13 @@ import calculadoraImg from './assets/calc.png';
 
 
 const sampleProjects = [
+  
+  {
+    title: "Blog TS Wind (Em andamento)",
+    description: "Blog em TypeScript e tecnologias web, desenvolvido com Next.js e estilizado com Tailwind CSS.",
+    url: "https://blogtswind.vercel.app/",
+    image: blogImg,
+  },
   {
     title: "PomoClock",
     description: "Um aplicativo de produtividade baseado na Técnica Pomodoro, construído com React estilizado com CSS Modules.",
@@ -35,17 +42,18 @@ const sampleProjects = [
     image: dailyNewsImg,
   },
   {
-    title: "Barbearia BarBear",
-    description: "Aplicação em HTML e SASS para um site de barbearia, utilizando pré processador SASS para estilos avançados.",
-    url: "https://barbear-barber.vercel.app/",
-    image: barbeariaImg,
-  },
-  {
     title: "Eletromídia Zeladoria",
     description: "Uma aplicação desenvolvida para gerenciar a manutenção de abrigos de ônibus sob a responsabilidade da Eletromidia durante o bootcamp da SoulCode.",
     url: "https://eletromidia-zeladoria.web.app/2856",
     image: eletromidiaImg,
   },
+  {
+    title: "Barbearia BarBear",
+    description: "Aplicação em HTML e SASS para um site de barbearia, utilizando pré processador SASS para estilos avançados.",
+    url: "https://barbear-barber.vercel.app/",
+    image: barbeariaImg,
+  },
+ 
   {
     title: "Landing Page PetShop",
     description: "Landing Page de um PetShop, desenvolvida com Next.js e Tailwind CSS, focando em design responsivo e experiência do usuário.",
@@ -58,12 +66,7 @@ const sampleProjects = [
     url: "https://calculadora-de-estacionamento.vercel.app/",
     image: calculadoraImg,
   },
-  {
-    title: "Blog TS Wind",
-    description: "Blog pessoal focado em TypeScript e tecnologias web, desenvolvido com Next.js e estilizado com Tailwind CSS.",
-    url: "https://blogtswind.vercel.app/",
-    image: blogImg,
-  },
+  
 
 ];
 
